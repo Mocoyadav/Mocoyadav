@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I’m Mukesh Yadav, an aspiring Backend Developer.<br>I work with Node.js, JavaScript, MongoDB, Python, and Java.<br>I have also learned the basics of HTML & CSS.<br>I enjoy building REST APIs and backend systems and solving problems using Data Structures & Algorithms.<br>Currently strengthening my DSA, backend architecture, and database design skills.<br>Passionate about writing clean, efficient, and scalable code.
+Hi 👋, I’m Mukesh Yadav, an aspiring Backend Developer.<br>I work with Node.js, JavaScript, MongoDB, Python,Java and C++.<br>I have also learned the basics of HTML & CSS.<br>I enjoy building REST APIs and backend systems and solving problems using Data Structures & Algorithms.<br>Currently strengthening my DSA, backend architecture, and database design skills.<br>Passionate about writing clean, efficient, and scalable code.
 
 
 ## 🌐 Socials:
